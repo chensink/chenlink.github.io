@@ -256,7 +256,7 @@ style_text_obj.innerHTML = style_text.substring(0, n)
 n++
 if (n === style_text.length) {
 clearInterval(timer)
-alert("Huan,生日快乐！")
+alert("Li,生日快乐！")
 }
 }, 10)
 </script>
